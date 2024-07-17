@@ -1,2 +1,0 @@
-/Users/mqm/WORKSPACE/CODE/cpp/ProgrammingPearls/build/CMakeFiles/edit_cache.dir
-/Users/mqm/WORKSPACE/CODE/cpp/ProgrammingPearls/build/CMakeFiles/rebuild_cache.dir
